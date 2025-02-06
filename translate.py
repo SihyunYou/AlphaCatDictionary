@@ -154,7 +154,8 @@ import re
 deeplx_api = "http://127.0.0.1:1188/translate"
 
 data = {
-	"text": "나는 너를 좋아하지 않아!",
+	#"text": "할머니께서는 우리에게 매일 사과를 보내신다.",
+            "text": "징징아! 난 너가 싫어!",
 	"source_lang": "KO",
 	"target_lang": "ID"
 }
@@ -205,6 +206,6 @@ def process_text(df, text, formality):
     )
     return final_result.strip()
 
-formality = 1
+formality = 1.8
 final_result = process_text(df, translated_text, formality)
 print(final_result)
