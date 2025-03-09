@@ -1,0 +1,147 @@
+[
+  {
+    "source": "물론",
+    "subsource": "",
+    "target": {
+      "bien sûr": 2,
+      "évidemment": 3
+    },
+    "description": [],
+    "example": {
+      "bien sûr": "",
+      "évidemment": ""
+    }
+  },
+  {
+    "source": "그냥",
+    "subsource": "단지/그저",
+    "target": {
+      "juste": 2,
+      "seulement": 3
+    },
+    "description": [],
+    "example": {
+      "juste": "",
+      "seulement": ""
+    }
+  },
+  {
+    "source": "이런",
+    "subsource": "",
+    "target": {
+      "ce genre de": 0,
+      "comme {CELA}": 0
+    },
+    "description": [],
+    "example": {
+      "ce genre de": "",
+      "comme {CELA}": ""
+    }
+  },
+  {
+    "source": "그런",
+    "subsource": "저런",
+    "target": {
+      "ce genre de": 0,
+      "comme {CELA}": 0
+    },
+    "description": [],
+    "example": {
+      "ce genre de": "",
+      "comme {CELA}": ""
+    }
+  },
+  {
+    "source": "그런데",
+    "subsource": "근데",
+    "target": {
+      "{MAIS}": 0,
+      "au fait": 0
+    },
+    "description": [],
+    "example": {
+      "{MAIS}": "",
+      "au fait": ""
+    }
+  },
+  {
+    "source": "아마",
+    "subsource": "",
+    "target": {
+      "peut-être": 0,
+      "probable": 0
+    },
+    "description": [],
+    "example": {
+      "peut-être": "",
+      "probable": ""
+    }
+  },
+  {
+    "source": "원래",
+    "subsource": "",
+    "target": {
+      "normalement": 0
+    },
+    "description": [],
+    "example": {
+      "normalement": ""
+    }
+  },
+  {
+    "source": "별로",
+    "subsource": "",
+    "target": {
+      "pas vraiment": 0
+    },
+    "description": [],
+    "example": {
+      "pas vraiment": ""
+    }
+  },
+  {
+    "source": "것 같다",
+    "subsource": "듯 하다",
+    "target": {
+      "avoir l'impression": 2,
+      "avoir l'air": 2,
+      "penser": 3,
+      "trouver": 3,
+      "croire": 3,
+      "sembler": 3
+    },
+    "description": [],
+    "example": {
+      "avoir l'impression": "",
+      "avoir l'air": "",
+      "penser": "",
+      "trouver": "",
+      "croire": "",
+      "sembler": ""
+    }
+  },
+  {
+    "source": "사실",
+    "subsource": "",
+    "target": {
+      "en fait": 0
+    },
+    "description": [],
+    "example": {
+      "en fait": ""
+    }
+  },
+  {
+    "source": "음",
+    "subsource": "어/아니",
+    "target": {
+      "bah": 0,
+      "genre": 0
+    },
+    "description": [],
+    "example": {
+      "bah": "",
+      "genre": ""
+    }
+  }
+]
